@@ -1,10 +1,10 @@
 # EX-3
  DATE: 23-03-2023
 
-### AIM:
+# AIM:
 To write a python program to perform sliding window protocol
 
-### ALGORITHM:
+# ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
 3. To create the frame based on the user request.
@@ -15,7 +15,7 @@ will send NACKsignal to client.
 
 
 
-### PROGRAM:
+# PROGRAM:
 
 CLIENT:
 ```
@@ -48,11 +48,11 @@ while True:
     print(s.recv(1024).decode())
     s.send("acknowledgement recived from the server".encode())
  ```   
-### OUTPUT:
+# OUTPUT:
 
 
 
-### RESULT:
+# RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
 
 
