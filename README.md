@@ -51,6 +51,13 @@ while True:
  ```   
 # OUTPUT:
 
+CLIENT:
+
+![slidingwindowprotocol](https://github.com/Gopika-9266/EX-3/assets/122762773/64ff8313-5a7d-48b0-a352-bf25b5971761)
+
+SERVER:
+![slidingwindowprotocol1](https://github.com/Gopika-9266/EX-3/assets/122762773/1b3488e1-9cc1-4bad-bebd-675b2cb8f638)
+
 
 
 # RESULT:
